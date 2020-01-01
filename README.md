@@ -17,6 +17,7 @@ The aim of this final project is two folded:
 - Create gauge charts to measure market sentiment, news sentiment and 52-week range.
 
 ### Market Sentiment
+![graph](https://github.com/kasparkwok/Stock-Price-Forecasting-and-Visualisation/blob/master/Market_Sentiment.PNG)
 
 ### News Sentiment
 
