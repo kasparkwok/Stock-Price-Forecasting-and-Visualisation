@@ -24,7 +24,7 @@ Facebook (Sumbol: FB) is used as the stock example for the stock price predictio
 [Relative Strength Index](https://www.investopedia.com/terms/r/rsi.asp)(RSI) is used to measure the recent market sentiment of the stock. 
 If the arrow is pointing below 30, that means the underlying stock is oversold. Conversely, if it points above 70, it implies that the underlying stock is overbought.
 
-In the example below, FB is slightly overbought.
+In the example below, FB is neither oversold or overbought.
 ![graph](https://github.com/kasparkwok/Stock-Price-Forecasting-and-Visualisation/blob/master/Market_Sentiment.PNG)
 
 ### News Sentiment
