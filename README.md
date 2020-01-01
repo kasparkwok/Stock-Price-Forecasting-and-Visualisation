@@ -20,4 +20,4 @@ The aim of this final project is two folded:
 - Apply two machine learning learning models (Random Forest and LSTM) to predict the stock price movement in 2019 with the usage of 2013-2018 data
 
 
-### [Result]
+### [Result](https://github.com/kasparkwok/Stock-Price-Forecasting-and-Visualisation/blob/master/LSTM_Price_Prediction.PNG)
