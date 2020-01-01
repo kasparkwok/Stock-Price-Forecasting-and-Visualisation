@@ -16,11 +16,12 @@ The aim of this final project is two folded:
 ## 3. Indicators
 - Create gauge charts to measure market sentiment, news sentiment and 52-week range.
 
-Market Sentiment
+### Market Sentiment
 
-News Sentiment
+### News Sentiment
 
-52-week Range
+### 52-week Range
+![graph](https://github.com/kasparkwok/Stock-Price-Forecasting-and-Visualisation/blob/master/52-Week_Range.PNG)
 
 ## 4. Machine Learning
 - Apply two machine learning learning models (Random Forest and LSTM) to predict the stock price movement in 2019 with the usage of 2013-2018 data
