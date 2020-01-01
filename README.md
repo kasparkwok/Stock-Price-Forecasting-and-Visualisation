@@ -21,4 +21,4 @@ The aim of this final project is two folded:
 
 
 ### Result
-(https://github.com/kasparkwok/Stock-Price-Forecasting-and-Visualisation/blob/master/LSTM_Price_Prediction.PNG)
+![Result](https://github.com/kasparkwok/Stock-Price-Forecasting-and-Visualisation/blob/master/LSTM_Price_Prediction.PNG)
